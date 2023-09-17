@@ -4,14 +4,14 @@
 
 ## 协作表
 
-|日期   | 星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日|
-|:---- |:----|:----|:----|:----|:----|:----|:----|
-|负责人 | Essie        | Nicole   | Rebecca  | 黄岩     | 呇呇    | wz       | 林柒柒      |
-|推荐人 | Survivor     | 北美开吻  | Mark     | 陈锡亮   | Gala    | Caos     | 张晓        |
-|      | msfew         | Rex     | Frozen    | Collin  | 0xMax   | Dream     | Shooter    |
-|      | Zhangxuesong | Lucas    | 樊金辉     | Sam     | Harry   | 昊暠 skyh  | CyberOrange|
-|      | Sun          | Qi Zhou  | Andrew     | Amagi   | Mark·R  | Yodully   | Aaron Chi  |
-|      | 李一笑        |          |           |         |          |           |            |
+|日期       | 星期一 | 星期二 | 星期三 | 星期四 | 星期五 | 星期六 | 星期日|
+|:----     |:----|:----|:----|:----|:----|:----|:----|
+|小编       | okin        | Nicole   | Rebecca  | yiwen     | song    | wz       | wz      |
+|内容贡献者  | Survivor     | 北美开吻  | Mark     | 陈锡亮   | Gala    | Caos     | 张晓        |
+|          | msfew         | Rex     | Frozen    | Collin  | 0xMax   | Dream     | Shooter    |
+|          | Zhangxuesong | Lucas    | 樊金辉     | Sam     | Harry   | 昊暠 skyh  | CyberOrange|
+|          | Sun          | Qi Zhou  | Andrew     | Amagi   | Mark·R  | Yodully   | Aaron Chi  |
+|          | 李一笑        |          |           |         |          |           |            |
 
 
 如果推荐人连续 4 周没有贡献，会被取消推荐资格。
@@ -23,11 +23,11 @@ Web3 极客日报是为 Web3 时代的极客们准备的日常读物，由一群
 ## 参与方式一
 
 - 通过微信群和催更表进行协作
-- 包括 7 名催更人和若干名内容贡献者
-  - 催更人负责整理内容
+- 包括 7 名小编和若干名内容贡献者
+  - 小编负责整理内容
   - 贡献者每周贡献 1 个推荐
 
-- 如果贡献者连续 3 周没有贡献，则会被取消贡献资格
+- 如果贡献者连续 4 周没有贡献，则会被取消贡献资格
 
 添加以下微信，注明「Web3 极客日报」
 - **ljyxxzj**
