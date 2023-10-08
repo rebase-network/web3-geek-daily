@@ -16,6 +16,12 @@
 
 如果推荐人连续 4 周没有贡献，会被取消推荐资格。
 
+## Web3 Daily 协作信息
+- 日报发布登陆后台 http://dailyadmin.rebase.network (ps: 需要是 http，不是 https)
+- 日报网页 https://daily.rebase.network/
+- 新版日报网页 https://rebase.network/geekdaily
+
+  
 # Web3 Daily 介绍
 
 Web3 极客日报是为 Web3 时代的极客们准备的日常读物，由一群极客协作完成，每天更新，每期包含三个推荐内容，都来自极客们各自关注的领域。每晚由 Rebase 志愿者们整理发出。
